@@ -1,0 +1,13 @@
+data/*
+
+.ipynb_checkpoints/*
+**/.ipynb_checkpoints/
+
+catboost_info/*
+**/catboost_info/
+
+*.csv
+*.db
+*.png
+
+__pycache__/
